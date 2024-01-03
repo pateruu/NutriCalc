@@ -1,0 +1,7 @@
+IMPROVEMENTS:
+
+1. Add all menus to another function so that the code looks more clean.
+
+2. Add rounding functionality to the final result values so that it only goes to 2 decimal places.
+
+3. Add other calculations to the program.

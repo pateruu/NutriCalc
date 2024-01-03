@@ -21,8 +21,11 @@ main(){
     //Variable to store user input.
     int choice;
 
+    clearConsole();
     //Asking user for input.
+    std::cout << "__________________________________________\n";
     mainMenu(menuOptions);
+    std::cout << "__________________________________________\n\n";
     std::cout << "Enter the option that you want to select:" << std::endl;
     std::cin >> choice;
 
